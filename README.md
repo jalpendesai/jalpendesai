@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <a href="https://github.com/jalpendesai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jalpendesai&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs" />
   <img align="center" src="https://github-readme-stats-git-master-jalpendesais-projects.vercel.app/api?username=jalpendesai&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs" />
 </a>
 </br>
