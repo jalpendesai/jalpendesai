@@ -2,7 +2,7 @@
 
 <a href="https://github.com/jalpendesai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jalpendesai&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs" />
-  <img align="center" src="https://github-readme-stats-jalpendesais-projects.vercel.app/api?username=jalpendesai&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs" />
+  <img align="center" src="https://github-readme-stats-git-master-jalpendesais-projects.vercel.app/api?username=jalpendesai&show_icons=true&theme=tokyonight&count_private=true&hide=stars,contribs" />
 </a>
 </br>
 <a href="https://profile-summary-for-github.com/user/jalpendesai" target="_blank">Jalpen's detailed profile chart</a>
